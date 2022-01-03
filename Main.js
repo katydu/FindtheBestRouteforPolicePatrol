@@ -1,6 +1,5 @@
 ﻿var inputFiles = [];
 var inputFiles_split = [];
-//var places = [];
 //FileInput
 var fileInput = document.getElementById("fileInput");
 var fileDisplayArea = document.getElementById("fileDisplayArea");
@@ -12,13 +11,14 @@ fileInput.addEventListener("change", function (e) {
     //display the content inside the file
     fileDisplayArea.innerText = reader.result;
     //clean the data
-    inputFiles = reader.result.split("\r\n");
+    inputFiles = [];
     inputFiles_split = [];
+    inputFiles = reader.result.split("\r\n");
     for (i = 1; i < inputFiles.length; i++) {
       inputFiles_split.push(inputFiles[i].split(","));
     }
+    console.log(inputFiles_split);
   };
-  //put csv file into file
   var file = fileInput.files[0];
   reader.readAsText(file);
 });
