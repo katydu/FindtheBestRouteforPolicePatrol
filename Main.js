@@ -17,7 +17,6 @@ fileInput.addEventListener("change", function (e) {
     for (i = 1; i < inputFiles.length; i++) {
       inputFiles_split.push(inputFiles[i].split(","));
     }
-    console.log(inputFiles_split);
   };
   var file = fileInput.files[0];
   reader.readAsText(file);
