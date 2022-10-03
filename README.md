@@ -15,13 +15,13 @@ We find that police's patrol has a way called unfixed patrol. This kind of patro
 
 |  Files | Descriptions |
 | --------------- | --------------- |
-| Content | 擺放bootstrap要用到的檔案 |
-| fonts | 擺放用到的字型檔案 |
-| App.css |設計前端網頁的美化部分 |
-|Index.html|網站首頁|
-| Main.js | 上傳檔案功能+Google API運用 |
-| ant.js | 蟻群演算法的javascript版本 |
-## Author
+| Content | put bootstrap file |
+| fonts | put some font in it |
+| App.css |design front-end |
+|Index.html|website index|
+| Main.js | upload file function and Google API |
+| ant.js | ant algorithm(javascript version) |
+## 作者 Author
 katydu
 
 蕭嫻
