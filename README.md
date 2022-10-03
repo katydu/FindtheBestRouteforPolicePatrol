@@ -14,13 +14,14 @@ We find that police's patrol has a way called unfixed patrol. This kind of patro
 ## 專案結構簡介 Project Structure
 
 |    Files    |             Descriptions             |
-| --------- - |  ---------------------------------   |
+| ----------- |  ----------------------------------  |
 |   Content   |           put bootstrap file         |
 |    fonts    |          put some font in it         |
 |   App.css   |           design front-end           |
 | Index.html  |            website index             |
 |   Main.js   | upload file function and Google API  |
 |    ant.js   |   ant algorithm(javascript version)  |
+
 ## 作者 Author
 katydu
 
