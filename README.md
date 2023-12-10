@@ -22,6 +22,14 @@ We find that police's patrol has a way called unfixed patrol. This kind of patro
 |   Main.js   | upload file function and Google API  |
 |    ant.js   |   ant algorithm(javascript version)  |
 
+## 匯入資料說明 Input Data
+1. 編號
+2. 案件類型
+3. 案發地址
+
+## 未來展望
+
+
 ## 作者 Author
 katydu
 
