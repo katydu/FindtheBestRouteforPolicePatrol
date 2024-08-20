@@ -1,5 +1,7 @@
 # Find the Best Route for Police's Patrol
 <p align="center">
+<a><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"></a>
+<a><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"></a>
 <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS Badge"></a>
 </p>
 ## 描述 Descriptions
