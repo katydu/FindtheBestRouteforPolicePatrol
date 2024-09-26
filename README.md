@@ -5,6 +5,7 @@
 <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS Badge"></a>
 </p>
 ## Descriptions
+
 本計畫發現警察巡邏方式有一種為不定線巡邏，這種巡邏方式沒有固定路線，這有個缺點是效率不高，因此希望有個系統能根據犯罪相關地點數據來規劃一條最佳巡邏路線進而幫助警察可以最有效率的執勤。
 
 We find that police's patrol has a way called unfixed patrol. This kind of patrol don't have the fixed path. The disadvantage is low efficiency, therefore we hope that there has a system can according criminal data planning a best route then helping police having better efficiency on patrol.
